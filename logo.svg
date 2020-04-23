@@ -11,9 +11,9 @@
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="16.084999mm"
-   height="13.762mm"
-   viewBox="0 0 16.084999 13.762"
+   width="13.147mm"
+   height="11.249mm"
+   viewBox="0 0 13.147 11.249"
    version="1.1"
    id="svg8"
    inkscape:version="0.92.3 (2405546, 2018-03-11)"
@@ -54,7 +54,7 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(0,-283.238)">
+     transform="translate(0,-285.751)">
     <switch
        id="switch3743"
        transform="matrix(0.26458333,0,0,0.26458333,-32.505951,-56.029757)">
@@ -72,7 +72,7 @@
          i:extraneous="self">
         <g
            id="g3739"
-           transform="matrix(0.39853325,0,0,0.39853325,43.769134,1192.3731)">
+           transform="matrix(0.32574428,0,0,0.32574428,58.213937,1218.2923)">
           <g
              id="g3737"
              transform="matrix(0.51222246,0,0,0.51222246,18.606386,63.966806)">
@@ -80,12 +80,12 @@
                id="g3735">
               <polygon
                  id="polygon3731"
-                 points="504.2,402.2 527.5,362.4 500,315.5 351.1,569.7 406.1,569.7 429.7,529.5 421.3,529.5 500,395.1 "
+                 points="429.7,529.5 421.3,529.5 500,395.1 504.2,402.2 527.5,362.4 500,315.5 351.1,569.7 406.1,569.7 "
                  class="st0"
                  style="fill:#131788" />
               <polygon
                  id="polygon3733"
-                 points="485,529.5 555.1,409.6 536.2,377.2 531.8,369.8 414.4,570.3 648.9,569.7 564.6,425.7 512,515.6 558.6,515.6 564.6,505.3 578.7,529.5 "
+                 points="648.9,569.7 564.6,425.7 512,515.6 558.6,515.6 564.6,505.3 578.7,529.5 485,529.5 555.1,409.6 536.2,377.2 531.8,369.8 414.4,570.3 "
                  class="st1"
                  style="fill:#0689ff" />
             </g>
