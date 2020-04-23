@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+<DOCTYPE html>
 <html lang="{{ page.lang | default: site.lang | default: "en" }}">
 <title>{% if page.title %}{{ page.title | escape }} | {% endif %}{{ site.title | escape }}</title>
 <meta charset="{{ site.encoding }}">
@@ -43,7 +43,7 @@
 <header class="icons">
   {% unless site.show_title != true and site.navigation and site.external %}
     <div class="title">
-        <object type="image/svg+xml" data="logo.svg">CG</object>
+        <object type="image/svg+xml" data="/assets/images/logo.svg">CG</object>
       <a href="{{ "/" | relative_url }}" class="title">{{ site.title | escape }}</a>
     </div>
   {% endunless %}
