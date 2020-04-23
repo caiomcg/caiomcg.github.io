@@ -2,7 +2,7 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   xmlns:i="&amp;#38;#38;ns_ai;"
+   xmlns:i="&amp;#38;ns_ai;"
    xmlns:dc="http://purl.org/dc/elements/1.1/"
    xmlns:cc="http://creativecommons.org/ns#"
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
@@ -28,10 +28,10 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="2"
-     inkscape:cx="-30.510139"
+     inkscape:cx="76.489861"
      inkscape:cy="144.55447"
      inkscape:document-units="mm"
-     inkscape:current-layer="g3735"
+     inkscape:current-layer="g3741"
      showgrid="false"
      inkscape:window-width="2560"
      inkscape:window-height="1014"
@@ -46,7 +46,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -82,12 +82,12 @@
                  id="polygon3731"
                  points="429.7,529.5 421.3,529.5 500,395.1 504.2,402.2 527.5,362.4 500,315.5 351.1,569.7 406.1,569.7 "
                  class="st0"
-                 style="fill:#00bf00;fill-opacity:1" />
+                 style="fill:#131788" />
               <polygon
                  id="polygon3733"
                  points="648.9,569.7 564.6,425.7 512,515.6 558.6,515.6 564.6,505.3 578.7,529.5 485,529.5 555.1,409.6 536.2,377.2 531.8,369.8 414.4,570.3 "
                  class="st1"
-                 style="fill:#000000" />
+                 style="fill:#0689ff" />
             </g>
           </g>
         </g>
