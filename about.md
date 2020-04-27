@@ -6,7 +6,7 @@ layout: page
 
 ### Who am I?
 
-My name is Caio Guedes. I am a software engineer born and raised in Brazil, working with accessibility solutions for digital cinema at [Assista Tecnologia](http://www.assistatecnologia.com.br/). Currently I am a Master's of science student at [Federal University of Paraíba](https://www.ufpb.br/) working on my thesis on Distributed Systems.
+My name is Caio Guedes. I am a software engineer born and raised in Brazil, working with accessibility solutions for digital cinema at [Assista Tecnologia](http://www.assistatecnologia.com.br/). Currently I am a Master's of Science student at [Federal University of Paraíba](https://www.ufpb.br/) working on my thesis on Distributed Systems.
 
 I am passionate about working with technologies that impact user experience, mainly those that work with Multimedia, Distributed Systems and Digital Audio and Video. I enjoy learning everything I possibly can, therefore you may see a lot of information on different topics on this blog. 
 
