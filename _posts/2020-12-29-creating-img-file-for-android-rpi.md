@@ -149,3 +149,7 @@ sudo losetup -d /dev/loop99
 Now you can burn the .img with whatever tool you like to use, I personally enjoy [Balena Etcher](https://www.balena.io/etcher/). Plug
 the SD card on the Raspberry Pi and enjoy your custom img!
 
+P.S.: There is the need to expand the partitions on the SD card once the img is
+installed, to do that, you can easily use Gparted or the CLI on your operating
+system. And if you have any suggestions on how to improve this post or if you
+found any errors don't hesitate to contact me on any platform.
